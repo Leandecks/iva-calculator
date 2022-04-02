@@ -1,0 +1,26 @@
+body {
+  background-color: #0c1016;
+  color: #ff6e48;
+  text-align: center;
+}
+
+.w3-prime {
+  color: white;
+  background-color: #ff6e48;
+}
+
+.w3-second {
+  color: #ff6e48;
+}
+
+button {
+  color: white;
+  background-color: #ff6e48;
+  border: 0px;
+  width: 95%;
+} 
+
+img {
+  width: 95%;
+  height: 300px;
+}
